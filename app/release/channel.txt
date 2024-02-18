@@ -1,0 +1,5 @@
+meituan # 美团
+samsung #三星
+xiaomi # 小米
+# Google Play
+应用宝
